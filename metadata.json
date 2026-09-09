@@ -1,0 +1,6 @@
+{
+  "name": "Guitar Leveling",
+  "description": "L'accademia e forgia di allenamento per chitarristi: percorso graduale di teoria e tecnica con tablature interattive, video lezioni con tab, boss fight e tracking avanzato delle sessioni.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

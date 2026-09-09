@@ -1,0 +1,44 @@
+{
+  "linking-shapes": [
+    "/pdfs/pages/linking-shapes-page-1.png",
+    "/pdfs/pages/linking-shapes-page-2.png",
+    "/pdfs/pages/linking-shapes-page-3.png"
+  ],
+  "variation-01-triplets": [
+    "/pdfs/pages/variation-01-triplets-page-1.png",
+    "/pdfs/pages/variation-01-triplets-page-2.png",
+    "/pdfs/pages/variation-01-triplets-page-3.png",
+    "/pdfs/pages/variation-01-triplets-page-4.png",
+    "/pdfs/pages/variation-01-triplets-page-5.png",
+    "/pdfs/pages/variation-01-triplets-page-6.png"
+  ],
+  "variation-02-doubling-notes": [
+    "/pdfs/pages/variation-02-doubling-notes-page-1.png",
+    "/pdfs/pages/variation-02-doubling-notes-page-2.png",
+    "/pdfs/pages/variation-02-doubling-notes-page-3.png",
+    "/pdfs/pages/variation-02-doubling-notes-page-4.png",
+    "/pdfs/pages/variation-02-doubling-notes-page-5.png",
+    "/pdfs/pages/variation-02-doubling-notes-page-6.png"
+  ],
+  "arpeggio-01-adjacent-strings": [
+    "/pdfs/pages/arpeggio-01-adjacent-strings-page-1.png",
+    "/pdfs/pages/arpeggio-01-adjacent-strings-page-2.png",
+    "/pdfs/pages/arpeggio-01-adjacent-strings-page-3.png"
+  ],
+  "hybrid-picking": [
+    "/pdfs/pages/hybrid-picking-page-1.png",
+    "/pdfs/pages/hybrid-picking-page-2.png",
+    "/pdfs/pages/hybrid-picking-page-3.png",
+    "/pdfs/pages/hybrid-picking-page-4.png",
+    "/pdfs/pages/hybrid-picking-page-5.png",
+    "/pdfs/pages/hybrid-picking-page-6.png",
+    "/pdfs/pages/hybrid-picking-page-7.png",
+    "/pdfs/pages/hybrid-picking-page-8.png"
+  ],
+  "walking-arpeggio": [
+    "/pdfs/pages/walking-arpeggio-page-1.png",
+    "/pdfs/pages/walking-arpeggio-page-2.png",
+    "/pdfs/pages/walking-arpeggio-page-3.png",
+    "/pdfs/pages/walking-arpeggio-page-4.png"
+  ]
+}
